@@ -1,0 +1,7 @@
+[package]
+name = "rustkaba"
+version = "0.0.0"
+authors = ["Rustkaba INC"]
+edition = "2020"
+
+[dependencies]
