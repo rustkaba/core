@@ -2,6 +2,6 @@
 name = "rustkaba"
 version = "0.0.0"
 authors = ["Rustkaba INC"]
-edition = "2020"
+edition = "2018"
 
 [dependencies]
